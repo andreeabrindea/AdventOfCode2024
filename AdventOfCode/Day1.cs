@@ -11,10 +11,13 @@ foreach (var row in input)
 rightList.Sort();
 leftList.Sort();
 int sum = 0;
+int similarityScore = 0;
 for (int i = 0; i < leftList.Count; i++)
 {
     sum += int.Abs(leftList[i] - rightList[i]);
+    similarityScore += leftList[i] * rightList.Count(x => x == leftList[i]);
 }
 
 
 Console.WriteLine(sum);
+Console.WriteLine(similarityScore);
