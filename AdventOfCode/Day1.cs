@@ -8,13 +8,13 @@ foreach (var row in input)
     rightList.Add(Convert.ToInt32(elem[1]));
 }
 
-List<int> results = new List<int>();
 rightList.Sort();
 leftList.Sort();
+int sum = 0;
 for (int i = 0; i < leftList.Count; i++)
 {
-    results.Add(int.Abs(leftList[i] - rightList[i]));
+    sum += int.Abs(leftList[i] - rightList[i]);
 }
 
 
-Console.WriteLine(results.Sum());
+Console.WriteLine(sum);
