@@ -1,0 +1,15 @@
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.deps.json
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.runtimeconfig.json
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.dll
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/bin/Debug/net7.0/AdventOfCode.pdb
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.AssemblyReference.cache
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfoInputs.cache
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfo.cs
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.dll
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/refint/AdventOfCode.dll
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.pdb
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/AdventOfCode.genruntimeconfig.cache
+/Users/andreea/Projects/AdventOfCode/AdventOfCode/obj/Debug/net7.0/ref/AdventOfCode.dll
